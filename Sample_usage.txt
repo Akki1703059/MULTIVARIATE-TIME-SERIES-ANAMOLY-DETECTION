@@ -1,0 +1,5 @@
+Prerequisites: A working Python environment and the pandas, numpy, and scikit-learn libraries installed. The TEP_Train_Test.csv file must be in the same folder as the script.
+
+Instructions: The script can be executed from the terminal using the command python anomaly_detection.py.
+
+Output: The script will generate a new file named TEP_Anomalies_Final.csv, which contains all the required project deliverables.
